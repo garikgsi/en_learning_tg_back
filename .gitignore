@@ -1,3 +1,4 @@
-/.env
+.env
 /ngrok.exe
 /node_modules/
+/dist
